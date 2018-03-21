@@ -1,0 +1,1 @@
+define({  "name": "kbsampleprovide-block",  "version": "0.1.0",  "description": "sample provide",  "title": "Provide Block",  "url": "https://localhost",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-03-20T10:58:46.286Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
